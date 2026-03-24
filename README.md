@@ -7,7 +7,7 @@
 *Building intelligence architectures that turn AI from a tool into an operating system.*
 
 [![TTG Website](https://img.shields.io/badge/TTG-thetechgroup.partners-0D9488?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjMEQ5NDg4Ii8+PC9zdmc+)](https://thetechgroup.partners)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Orrego-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gabrielorrego)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Orrego-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gaaoa97)
 [![TTG Blueprint](https://img.shields.io/badge/TTG_Blueprint-Read_the_Methodology-F97316?style=for-the-badge&logo=gitbook)](https://github.com/TheTechGroup/ttg-playbook)
 
 </div>
