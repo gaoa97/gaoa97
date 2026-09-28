@@ -7,6 +7,7 @@
 *Building intelligence architectures that turn AI from a tool into an operating system.*
 
 [![TTG Website](https://img.shields.io/badge/TTG-thetechgroup.au-0D9488?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjMEQ5NDg4Ii8+PC9zdmc+)](https://thetechgroup.au)
+[![The Tech Guy](https://img.shields.io/badge/The_Tech_Guy-Book_support-0D9488?style=for-the-badge&labelColor=111111)](https://thetechguy.services)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Orrego-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gaoa97)
 [![TTG Blueprint](https://img.shields.io/badge/TTG_Blueprint-Read_the_Methodology-F97316?style=for-the-badge&logo=gitbook)](https://github.com/TheTechGroup/ttg-playbook)
 
@@ -16,14 +17,30 @@
 
 ## What I Build
 
-I design **intelligence architectures** for businesses — systems where multiple AI models work together, each doing what it does best, with structured memory that compounds knowledge across sessions.
+I design **intelligence architectures** for businesses: systems where multiple AI models work together, each doing what it does best, with structured memory that compounds knowledge across sessions.
 
-The core framework is called **Polycentric Intelligence**: distribute cognitive work across specialised AI nodes instead of routing everything through one model. The result is better output, faster execution, and intelligence that persists.
+The core framework is called **Polycentric Intelligence**: distribute cognitive work across specialised AI nodes instead of routing everything through one model. The goal is higher-quality output, faster execution, and intelligence that persists.
 
 **Current focus:**
-- **Managed Intelligence Provider (MIP)** model — helping acquired SMBs build operational clarity from inherited technology chaos
-- **Claude Code skill library** — executable AI protocols that turn consulting methodologies into deployable IP
-- **Context engineering** — patterns for making AI workspaces queryable, version-controlled, and agent-readable
+- **Managed Intelligence Provider (MIP)** category: building a 30-day Intelligence Architecture for acquirers and scaling teams
+- **Offer architecture**: one clear entry point, a named first win, and continuity that solves the next problem
+- **Claude Code skill library**: executable AI protocols that turn consulting methodologies into deployable IP
+- **Context engineering**: patterns for making AI workspaces queryable, version-controlled, and agent-readable
+
+---
+
+## The TTG Offer System
+
+One company operates through two distinct client paths. They share operating discipline, not messaging or delivery promises.
+
+The Tech Guy Services is the warm, local path for people and small businesses who want technology sorted. The Tech Group Partners is the Managed Intelligence Provider (MIP) path for leaders paying the hidden tax of tech chaos: lost time, delayed decisions, and reactive firefighting.
+
+| Path | Buyer moment | First win | How value compounds |
+|------|--------------|-----------|---------------------|
+| **[The Tech Guy Services](https://thetechguy.services)** | "I want this working, and I want one person who knows the setup." | Bookable on-site or online support, followed by a clear recommendation | Essentials → Premium → Premium+ as operational responsibility grows |
+| **[The Tech Group Partners](https://thetechgroup.au)** | "I need to know what I inherited, where the bottlenecks are, and what changes first." | A 30-day Intelligence Architecture, with a Director's Brief as the first milestone | Ongoing capability installs and governance after the architecture proves the priority |
+
+The design rule is simple: prove one offer, systemise delivery, then add only the next layer that solves the problem the previous one creates.
 
 ---
 
@@ -53,7 +70,7 @@ Intelligence frameworks, AI orchestration protocols, and Claude Code skills. The
 <td width="50%">
 
 ### [ttg-playbook](https://github.com/TheTechGroup/ttg-playbook)
-The TTG Blueprint — polished methodology for the Managed Intelligence era. The narrative layer.
+The TTG Blueprint: polished methodology for the Managed Intelligence era. The narrative layer.
 
 `frameworks` `methodology` `gitbook`
 
