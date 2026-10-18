@@ -19,7 +19,7 @@ Founder and lead engineer, [The Tech Guy](https://www.thetechguy.services) · Bu
 
 | Trading identity | Who it's for | Proof | Go |
 |---|---|---|---|
-| **The Tech Guy** | Homes and small businesses from Noosa to Caloundra. On-site and online tech support, managed IT plans, internet and Wi-Fi. | 4.9 ★ on Google across 100+ reviews · Noosa / Sunshine Coast partner of Great Southern Network | [thetechguy.services](https://www.thetechguy.services) |
+| **The Tech Guy** | Homes and small businesses from Noosa to Caloundra. On-site and online tech support, cybersecurity and scam help, managed IT plans, internet and Wi-Fi. | 4.9 ★ on Google across 100+ reviews · Noosa / Sunshine Coast partner of Great Southern Network | [thetechguy.services](https://www.thetechguy.services) |
 | **The Tech Group** | Businesses that have outgrown managed services. Advisory, AI operating systems and agent-based services: the Managed Intelligence Provider (MIP). | Built on the Polycentric Intelligence framework | [thetechgroup.au](https://www.thetechgroup.au) |
 
 ---
@@ -32,6 +32,8 @@ Each rung solves the next problem up. Prices are as published on [thetechguy.ser
 
 ```
   MANAGED         Essentials ─▶ Premium ─▶ Premium+         technology run for you, every month
+     ▲
+  SECURITY        Scam help now · fixed-price response      when something has already gone wrong
      ▲
   BUSINESS        Defined work at the business rate          a project with an agreed scope
      ▲
@@ -46,11 +48,13 @@ Each rung solves the next problem up. Prices are as published on [thetechguy.ser
 | **On-site visit** | A technology facilitator at your home or business. Broken hardware included: fixed on the spot, or collected, repaired through a repair partner and brought back set up. Repairs are quoted separately and start only when you accept. | $160/hr inc GST · 1 hour minimum, then 15-minute increments | After the visit |
 | ↳ Weekend, public holiday or same-day | Same-day is arranged by message or call, never booked online. | +$160 per visit | After the visit |
 | **Business work** | Defined projects for businesses. | $160/hr + GST | Per engagement |
-| **Essentials** | Things that go wrong, and the admin that follows. Starts with the Working Picture: a written record of what you have, where it lives and what it costs. | $50/user/month + GST | Monthly |
-| **Premium** | Everything in Essentials at a higher intensity, a standing hour every week, and systems watched between visits. | $150/user/month + GST | Monthly |
-| **Premium+** | Premium, plus the security and backup work a business holding client records has to be able to evidence. | $250/user/month + GST | Monthly |
+| **Incident response · household** | Scam call or remote-access worry. Up to 2 hours hands-on across 2 devices, with pickup and return included across Noosa and the Sunshine Coast. | $640 inc GST, fixed | Agreed before we start |
+| **Incident response · business** | Covers one computer and your Microsoft 365. Fixed fee, agreed before work starts. | $640 + GST, fixed | Billed on acceptance |
+| **Essentials** | Things that go wrong, and the admin that follows. Starts with the Working Picture: a written record of what you have, where it lives and what it costs. | $50 per person, per month, + GST | Monthly |
+| **Premium** | Everything in Essentials at a higher intensity, a standing hour every week, and systems watched between visits. | $150 per person, per month, + GST | Monthly |
+| **Premium+** | The top managed tier. Ask us for details. | Available on request | Monthly |
 
-**The promise on managed plans:** if we do work you didn't agree to, you don't pay for it. Plans carry a 12-month initial term, disclosed on the page. No one is upgraded without being asked.
+**The promise on managed plans:** if we do work you didn't agree to, you don't pay for it. No lock-in: cancel any time with written notice. No one is upgraded without being asked.
 
 **Specialist paths** that route into the stack above:
 
@@ -59,9 +63,12 @@ Each rung solves the next problem up. Prices are as published on [thetechguy.ser
 | Internet & Wi-Fi | Connect an address, fix drop-outs, improve coverage. Service supplied and billed by Great Southern Network; setup and support by The Tech Guy. | [/internet-and-wifi](https://www.thetechguy.services/internet-and-wifi) |
 | A new computer, chosen for you | We work out whether you need one, choose one that suits what you actually do, set it up and move everything across. | [/new-computer](https://www.thetechguy.services/new-computer) |
 | Help for a parent | Patient in-home support for a parent or family member, with consent-aware updates and a written visit summary. | [/help-for-a-parent](https://www.thetechguy.services/help-for-a-parent) |
+| Cybersecurity & scam help | Plain steps for right now if a call or a remote session feels wrong, then local help. | [/security](https://www.thetechguy.services/security) |
+| Find my perfect computer | Six quick questions about how you use a computer, then a recommendation we set up for you. | [/hardware](https://www.thetechguy.services/hardware) |
+| Remote help | How a remote session starts: only after you've booked or sent a form, with an email confirmation first. | [/remote](https://www.thetechguy.services/remote) |
 | Business plans | Compare the three tiers side by side. | [/business](https://www.thetechguy.services/business) |
 
-*Prices verified against the live site 2026-09-28.*
+*Prices verified against the live site 2026-10-18.*
 
 ### The Tech Group · Managed Intelligence
 
@@ -73,6 +80,9 @@ Advisory and AI operating systems for businesses, scoped per engagement. [Start 
 
 | Date | Where | What |
 |---|---|---|
+| 2026-10-18 | The Tech Guy | Calmer journey: one help dialog, one hero, each option shown once. The weekend surcharge sits on the visit card as a clear extra. |
+| 2026-10-17 | The Tech Guy | `/hardware` launched: find the right computer in six questions. `/remote` explains exactly how a remote session starts, and why it never starts from an email. |
+| 2026-10-16 | The Tech Guy | `/security` launched: scam help now, Microsoft security switched on and proven, fixed-price incident response. Managed plans now go month to month with no lock-in. |
 | 2026-09-25 | The Tech Guy | `/how-we-work` rebuilt around principles and what you can hold us to. Plain-language pass across `/business` and `/internet-and-wifi`. |
 | 2026-09-23 | The Tech Guy | One design system across every page, in the Availability Terminal's language. "What we help with" now includes cybersecurity assessments. |
 | 2026-09-17 | The Tech Guy | Same-day visits published with the same flat surcharge. GST shown as a tag, not a sentence. Share metadata and a homepage path to `/new-computer`. |
@@ -115,7 +125,7 @@ The method behind it is **Polycentric Intelligence**: specialised AI nodes with 
 | | The Tech Guy | The Tech Group | Gabriel |
 |---|---|---|---|
 | **Web** | [thetechguy.services](https://www.thetechguy.services) | [thetechgroup.au](https://www.thetechgroup.au) |  |
-| **Message** | [WhatsApp](https://wa.me/61447268201?text=I%20need%20help%20with%20) |  |  |
+| **Message / call** | [WhatsApp](https://wa.me/61447268201?text=I%20need%20help%20with%20) · [0447 268 201](tel:+61447268201) |  |  |
 | **Reviews** | [Google](https://www.google.com/maps?cid=13929376013262284480) · [Localsearch](https://www.localsearch.com.au/profile/the-tech-guy/cmb7abqz4000x09iegok3fx9w) |  |  |
 | **Social** | [Facebook](https://www.facebook.com/TheTechGuy.services/) · [LinkedIn](https://au.linkedin.com/company/thetechguyservices) | [LinkedIn](https://au.linkedin.com/company/thetechgroup) · [Instagram](https://www.instagram.com/thetechgroup.au/) · [X](https://x.com/_thetechgroup_) | [LinkedIn](https://au.linkedin.com/in/gaoa97) |
 | **Careers** |  | [Join as a technology facilitator](https://www.thetechgroup.au/join) |  |
